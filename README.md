@@ -47,7 +47,7 @@ MS Computer Science candidate at Colorado State University (GPA 3.84/4.00), with
 
 | Domain | Tools / Technologies |
 |---|---|
-| Languages | Python, Java, C++, JavaScript, SQL |
+| Languages | Python, Java, C++, JavaScript, SQL, PDDL |
 | ML & AI | PyTorch, TensorFlow, Keras, Scikit-learn, HuggingFace, RAG |
 | LLMs & NLP | Ollama, Prompt Engineering, LangChain, NLP |
 | Web & Mobile | Django, Flask, Node.js, React Native, Flutter, REST APIs |
