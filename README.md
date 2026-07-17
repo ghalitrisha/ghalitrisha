@@ -60,21 +60,21 @@ MS Computer Science candidate at Colorado State University (GPA 3.84/4.00), with
 
 ## 🚀 Projects
 
-**[Optimizing Reviewer Effort through Functional Logic in OSS](https://github.com/harshitsingh7848/Optimizing-Reviewer-Effort-through-Functional-Logic-in-OSS)**  
+**[Optimizing Reviewer Effort through Functional Logic in OSS](https://github.com/ghalitrisha/-Optimizing-Reviewer-Effort-through-Functional-Logic-in-OSS)**  
 Evaluated Qwen2.5-7B, Llama3.1-8B, and Gemma3-4B as zero-shot judges across 1,000 real pull requests. Gemma3-4B outperformed a supervised Random Forest baseline with F1 of 0.44 without any labeled training data.
 
 **[Real-Time HAR on Android](https://github.com/ghalitrisha/Human-Activity-Recognition-on-Android)**  
 Designed CNN-LSTM and GRU models for real-time activity recognition from inertial sensor data, deployed to Android via TensorFlow Lite with 74% model size reduction and 7.8ms inference latency.
 
-**Hate Speech and Offensive Language Detection**  
+**[Hate Speech and Offensive Language Detection](https://github.com/ghalitrisha/harmful-speech-detection)**  
 CNN-based hate speech classifier built on HateXplain, Twitter Hate Speech, and Gab Hate Corpus datasets using Word2Vec embeddings and 1D convolutional feature extraction.
 
 ---
 
 ## 📄 Publications
 
-- **[Plan Explanation through Recommendations](https://openreview.net/forum?id=qfgi8aPbTU)** — ICAPS 2025 HAXP Workshop
-- **[Real-time Weapon Surveillance using Motion Capture and Deep Learning](https://ieeexplore.ieee.org/document/10465428)** — ICSES 2023, IEEE
+- **[Plan Explanation through Recommendations](https://openreview.net/forum?id=qfgi8aPbTU)** — ICAPS 2025 HAXP Workshop.
+- **[Real-time Weapon Surveillance using Motion Capture and Deep Learning](https://ieeexplore.ieee.org/document/10465428)** — ICSES 2023.
 
 ---
 
@@ -89,10 +89,10 @@ CNN-based hate speech classifier built on HateXplain, Twitter Hate Speech, and G
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: **[linkedin.com/in/trisha-ghali-01a078249](https://linkedin.com/in/trisha-ghali-01a078249)**
+- 💼 LinkedIn: **[linkedin.com/in/trisha-ghali-01a078249](https://linkedin.com/in/trisha-ghali)**
 - 📧 Email: **trisha11ghali@gmail.com**
 - 🌍 Location: **Fort Collins, CO**
 
 ---
 
-💡 *"The interesting question is never just whether a model produces an answer, but whether that answer can actually be trusted."*
+💡 *"Equally comfortable in a research paper and a production codebase."*
