@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-MS Computer Science candidate at Colorado State University (GPA 3.84/4.00), with experience across machine learning, full stack development, NLP, and explainable AI research.
+MS Computer Science graduate from Colorado State University (GPA 3.84/4.00), with experience across machine learning, full stack development, NLP, and explainable AI research.
 
 - I own problems end-to-end, from data collection through deployment
 - I evaluate models rigorously, not just run them
