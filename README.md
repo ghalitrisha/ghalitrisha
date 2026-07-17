@@ -4,13 +4,13 @@
 
 🤖 I build ML systems and software pipelines that work in the real world, not just benchmarks  
 📱 I deploy models to edge hardware and build applications across mobile, backend, and cloud  
-🧠 I research how AI agents explain their failures to humans  
+🧠 I research how AI agents explain their failures to humans
 
 ---
 
 ## 👩‍💻 About Me
 
-MS Computer Science graduate from Colorado State University (GPA 3.84/4.00), with experience across machine learning, full stack development, NLP, and explainable AI research.
+MS Computer Science graduate from Colorado State University (GPA 3.84/4.00), with 2 years of research and engineering experience across machine learning, NLP, full stack development, and explainable AI.
 
 - I own problems end-to-end, from data collection through deployment
 - I evaluate models rigorously, not just run them
@@ -58,6 +58,21 @@ MS Computer Science graduate from Colorado State University (GPA 3.84/4.00), wit
 
 ---
 
+## 💼 Professional Experience
+
+**Graduate Research Assistant** — Colorado State University, Fort Collins, CO | *Aug 2024 – May 2026*
+- Designed and implemented an explainability framework in Python for autonomous AI planning agents, enabling systems to generate counterfactual recommendations when a robot or agent's proposed action sequence fails.
+- Formalized the X-REC compilation for numeric planning, modeling plan repair as a budget-constrained planning problem to support real-time human-agent interaction in robotic task planning scenarios.
+- Engineered and executed benchmark experiments across 25 problems in 5 IPC domains, evaluating how autonomous agents can recover from planning failures with minimal human intervention.
+- Designed and led a user study evaluating human trust and interpretability of AI-generated plan recommendations, informing how autonomous systems should communicate failures to human operators.
+
+**Data Science Intern** — The Ascent Group, Bangalore, India | *Jan 2024 – Jul 2024*
+- Designed and implemented end-to-end automated trade loader pipelines in Python across 17 financial funds, ingesting multi-format source files and mapping raw trade fields to structured securities loader templates using lookup-based security master matching.
+- Engineered FX transaction processing pipelines that computed NAV per share, applied conditional redemption sign adjustments, and classified transactions as spot or forward based on settlement lag.
+- Developed GL entry automation workflows that filtered and aggregated bank statement transactions and consolidated multi-source fund data into unified general ledger outputs.
+
+---
+
 ## 🚀 Projects
 
 **[Optimizing Reviewer Effort through Functional Logic in OSS](https://github.com/ghalitrisha/-Optimizing-Reviewer-Effort-through-Functional-Logic-in-OSS)**  
@@ -92,7 +107,7 @@ Built a text classification pipeline on a YouTube video dataset, training models
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: **[linkedin.com/in/trisha-ghali-01a078249](https://linkedin.com/in/trisha-ghali)**
+- 💼 LinkedIn: **[linkedin.com/in/trisha-ghali](https://linkedin.com/in/trisha-ghali)**
 - 📧 Email: **trisha11ghali@gmail.com**
 - 🌍 Location: **Fort Collins, CO**
 
