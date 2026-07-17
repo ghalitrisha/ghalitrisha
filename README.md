@@ -69,6 +69,9 @@ Designed CNN-LSTM and GRU models for real-time activity recognition from inertia
 **[Hate Speech and Offensive Language Detection](https://github.com/ghalitrisha/harmful-speech-detection)**  
 CNN-based hate speech classifier built on HateXplain, Twitter Hate Speech, and Gab Hate Corpus datasets using Word2Vec embeddings and 1D convolutional feature extraction.
 
+**[YouTube Text Classification](https://github.com/ghalitrisha/Youtube-Text-Classification)**  
+Built a text classification pipeline on a YouTube video dataset, training models to categorize video content by topic; deployed as a Flask web application with a prediction interface accessible via browser.
+
 ---
 
 ## 📄 Publications
